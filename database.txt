@@ -1,0 +1,5 @@
+Your database has been setup. Use the following values:
+Database:	casinogambline_Casino
+Host:	localhost
+Username:	casinogambline_Casino
+Password:	Y:CVM4c=pagC(Mn;
