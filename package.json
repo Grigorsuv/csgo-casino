@@ -23,9 +23,12 @@
     "passport": "^0.4.1",
     "passport-steam": "^1.0.14",
     "sequelize": "^6.3.3",
+    "sequelize-auto": "^0.5.3",
+    "sequelize-auto-migrations": "github:scimonster/sequelize-auto-migrations#a063aa6535a3f580623581bf866cef2d609531ba",
     "x-xss-protection": "^1.3.0"
   },
   "devDependencies": {
-    "nodemon": "^2.0.4"
+    "nodemon": "^2.0.4",
+    "sequelize-cli": "^6.2.0"
   }
 }

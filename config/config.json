@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "q1w2e3r4",
+    "database": "test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "q1w2e3r4",
+    "database": "csgocasino",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "q1w2e3r4",
+    "database": "csgocasino",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}

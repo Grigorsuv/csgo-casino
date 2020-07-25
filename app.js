@@ -10,7 +10,7 @@ passport.deserializeUser(function(obj, done) {
     done(null, obj);
 });
 
-require('./models/index')
+require('./db/models/index')
 // passport.use(new SteamStrategy({
 //         returnURL: process.env.STEAM_API_RETURN,
 //         realm: process.env.STEAM_API_REALM,
